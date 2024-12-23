@@ -5,7 +5,7 @@ public class Accountant {
     private int counter;
 
     public Accountant() {
-        this.employees = new Employee[0]; // Изначально массив пустой
+        this.employees = new Employee[0]; 
         this.counter = 0;
     }
 
